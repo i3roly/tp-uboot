@@ -1,0 +1,258 @@
+CONFIG_IFX_UBOOT_OPTIMIZED=y
+CONFIG_CONFIG_REMOVE_GZIP=y
+CONFIG_CONFIG_IFX_MIPS=y
+CONFIG_CROSS_COMPILE_UCLIBC=y
+CONFIG_LANTIQ_UART=y
+# CONFIG_BOOT_FROM_SPI is not set
+CONFIG_BOOT_FROM_NAND=y
+# CONFIG_BOOT_FROM_ETHERNET is not set
+# CONFIG_BOOT_FROM_UART is not set
+# CONFIG_BOOT_WITH_NO_FLASH is not set
+# CONFIG_ENV_IS_NOWHERE is not set
+CONFIG_ENV_IS_IN_NAND=y
+CONFIG_NAND_U_BOOT=y
+CONFIG_RAM_TEXT_BASE=0xA0400000
+CONFIG_BOOTSTRAP_TEXT_BASE=0x80100000
+CONFIG_NAND_PRELOAD_TEXT_BASE=0xa0010000
+CONFIG_NAND_SPL_TEXT_BASE=0xa0001000
+# CONFIG_OS_GZIP is not set
+CONFIG_OS_LZMA=y
+# CONFIG_OS_LZO is not set
+# CONFIG_OS_BZIP2 is not set
+# CONFIG_LTQ_SECURE_BOOT is not set
+CONFIG_USE_DEFAULT_PREBOOT=y
+# CONFIG_AUTOBOOT_KEYED is not set
+# CONFIG_SILENT_CONSOLE is not set
+# CONFIG_DEBUG is not set
+CONFIG_IFX_MEMORY_SIZE=64
+CONFIG_BAUDRATE=9600
+# CONFIG_NOR_FLASH is not set
+CONFIG_SYS_NO_FLASH=y
+# CONFIG_SPI_FLASH is not set
+# CONFIG_SPI_EEPROM is not set
+CONFIG_NAND_FLASH=y
+CONFIG_NAND_LANTIQ=y
+CONFIG_NAND_ECC_SOFT=y
+# CONFIG_NAND_ECC_BCH is not set
+# CONFIG_NAND_ECC_HW_REED_SOLOMON is not set
+# CONFIG_NAND_BENAND is not set
+# CONFIG_NAND_BBT_SCAN is not set
+# CONFIG_NAND_FLASH_8192M is not set
+# CONFIG_NAND_FLASH_4096M is not set
+# CONFIG_NAND_FLASH_2048M is not set
+# CONFIG_NAND_FLASH_1024M is not set
+# CONFIG_NAND_FLASH_512M is not set
+# CONFIG_NAND_FLASH_256M is not set
+CONFIG_NAND_FLASH_128M=y
+# CONFIG_NAND_FLASH_64M is not set
+# CONFIG_NAND_FLASH_32M is not set
+# CONFIG_NAND_FLASH_8M is not set
+# CONFIG_NAND_FLASH_4M is not set
+# CONFIG_NAND_FLASH_2M is not set
+CONFIG_NAND_FLASH_SIZE=128
+CONFIG_NAND_PAGE_SIZE=0x800
+CONFIG_NAND_BLOCK_SIZE=0x20000
+CONFIG_NAND_SPL_BLOCK_SIZE=0x6000
+# CONFIG_NAND_PRELOAD is not set
+# CONFIG_NAND_SPL_BBT is not set
+# CONFIG_FIRMWARE_IN_ROOTFS is not set
+# CONFIG_LTQ_I2C is not set
+CONFIG_DRIVER_GRX500=y
+CONFIG_GRX500_A11=y
+# CONFIG_GRX500_A21 is not set
+CONFIG_GRX500_ROM_HEADER_BCH_CAP=40
+# CONFIG_GRX500_BOOT_4KEC_ONLY is not set
+# CONFIG_TOS_16M is not set
+# CONFIG_TOS_32M is not set
+# CONFIG_TOS_64M is not set
+CONFIG_TOS_128M=y
+# CONFIG_DDR_256M is not set
+CONFIG_DDR_512M=y
+# CONFIG_DDR_1G is not set
+CONFIG_FMT1_REG=0xF8003800
+# CONFIG_GRX500_USE_DDR_PRECONFIG is not set
+# CONFIG_GRX500_DDR2 is not set
+CONFIG_GRX500_DDR3=y
+# CONFIG_GRX500_400M_CL6 is not set
+# CONFIG_GRX500_533M_CL6 is not set
+# CONFIG_GRX500_533M_CL7 is not set
+# CONFIG_GRX500_533M_CL8 is not set
+# CONFIG_GRX500_667M_CL8 is not set
+CONFIG_GRX500_667M_CL9=y
+# CONFIG_GRX500_667M_CL10 is not set
+# CONFIG_GRX500_800M_CL9 is not set
+# CONFIG_GRX500_800M_CL10 is not set
+# CONFIG_GRX500_800M_CL11 is not set
+# CONFIG_GRX500_32Mx16 is not set
+# CONFIG_GRX500_64Mx8 is not set
+# CONFIG_GRX500_64Mx16 is not set
+# CONFIG_GRX500_128Mx8 is not set
+# CONFIG_GRX500_128Mx16 is not set
+# CONFIG_GRX500_256Mx8 is not set
+CONFIG_GRX500_256Mx16=y
+# CONFIG_GRX500_512Mx8 is not set
+# CONFIG_GRX500_512Mx16 is not set
+CONFIG_GRX500_BL8=y
+# CONFIG_GRX500_BC4 is not set
+CONFIG_GRX500_1ST_SR0_VALUE=24
+CONFIG_GRX500_2ND_SR0_VALUE=24
+CONFIG_GRX500_1ST_SR1_VALUE=24
+CONFIG_GRX500_2ND_SR1_VALUE=24
+# CONFIG_GRX500_DDR_CTRL_200M is not set
+CONFIG_GRX500_DDR_CTRL_333M=y
+# CONFIG_GRX500_DDR_CTRL_400M is not set
+CONFIG_GRX500_CS0_ONLY=y
+CONFIG_GRX500_ADDITIVE_LATENCY=1
+CONFIG_GRX500_CPU_600M=y
+# CONFIG_GRX500_CPU_800M is not set
+# CONFIG_GRX500_CPU_1000M is not set
+# CONFIG_GRX500_CPU_1200M is not set
+CONFIG_GRX500_CBM_FREQ_200M=y
+# CONFIG_GRX500_CBM_FREQ_300M is not set
+# CONFIG_GRX500_CBM_FREQ_400M is not set
+# CONFIG_GRX500_CBM_FREQ_480M is not set
+# CONFIG_GRX500_CBM_FREQ_600M is not set
+# CONFIG_GRX500_CBM_FREQ_800M is not set
+# CONFIG_GRX500_CBM_FREQ_1200M is not set
+# CONFIG_GRX500_CBM_FREQ_2400M is not set
+CONFIG_GRX500_MIPS_ENDIAN_BE=y
+CONFIG_NETWORK_VIA_LAN=y
+# CONFIG_NETWORK_VIA_WAN is not set
+CONFIG_GRX500_PHY2=y
+CONFIG_GRX500_PHY3=y
+CONFIG_GRX500_PHY4=y
+CONFIG_GRX500_PHY5=y
+CONFIG_GRX500_GPHY_FW_EMBEDDED=y
+CONFIG_GRX500_GPHY_FW_ADDR=0xa0220000
+CONFIG_IP_ADDRESS="192.168.1.1"
+CONFIG_SERVER_IP_ADDRESS="192.168.1.2"
+CONFIG_ETHERNET_ADDRESS="00:E0:92:00:01:40"
+CONFIG_NUMBER_OF_MAC_SUPPORTED="32"
+CONFIG_NUMBER_OF_MAC_RESERVED="2"
+CONFIG_ETHERNET_DEVICE="eth0"
+CONFIG_ENV_SIZE=0x4000
+# CONFIG_ENV_REDUND is not set
+CONFIG_ENV_OVERWRITE=y
+# CONFIG_BUILD_ENV_BLOCK is not set
+CONFIG_TFTP_LOAD_ADDRESS="0x80800000"
+CONFIG_MEM="31M"
+CONFIG_PHYM="32M"
+CONFIG_BOOTDELAY=5
+CONFIG_ROOT_PATH="/mnt/full_fs"
+CONFIG_CONSOLE="ttyS1"
+CONFIG_TFTPPATH=""
+CONFIG_ROOTFSMTD="/dev/mtdblock2"
+CONFIG_NFSARGS="setenv bootargs root=/dev/nfs rw nfsroot=$(serverip):$(rootpath)"
+CONFIG_RAMARGS="setenv bootargs root=/dev/ram rw"
+CONFIG_FLASHARGS="setenv bootargs root=$(rootfsmtd) ro rootfstype=squashfs init=/etc/preinit"
+CONFIG_ADDIP="setenv bootargs $(bootargs) ip=$(ipaddr):$(serverip):$(gatewayip):$(netmask):$(hostname):$(netdev):on"
+CONFIG_ADDMISC="setenv bootargs $(bootargs) console=$(console),$(baudrate) ethaddr=$(ethaddr) phym=$(phym) mem=$(mem) panic=1 mtdparts=$(mtdparts)"
+CONFIG_BOOTFILE="uImage"
+CONFIG_BOOT_CORE="bootcore"
+CONFIG_U_BOOT="u-boot.ltq"
+CONFIG_ROOTFS="rootfs.img"
+CONFIG_FIRMWARE="firmware.img"
+CONFIG_FULLIMAGE="fullimage.img"
+CONFIG_TOTALIMAGE="totalimage.img"
+CONFIG_MTDIDS="nand0=ifx_nand"
+CONFIG_USE_DEFAULT_MTDPARTS=y
+CONFIG_MTDPARTS="ifx_nand:64k(uboot),-(rootfs)"
+CONFIG_FLASH_NFS="run nfsargs addip addmisc;bootm $(kernel_addr)"
+CONFIG_NET_RAM="tftp $(loadaddr) $(tftppath)$(bootfile); run ramargs addip addmisc; bootm"
+CONFIG_NET_FLASH="tftp $(loadaddr) $(tftppath)$(bootfile); run flashargs addip addmisc; bootm"
+CONFIG_NET_NFS="tftp $(loadaddr) $(tftppath)$(bootfile);run nfsargs addip addmisc;bootm"
+CONFIG_FLASH_FLASH="run flashargs addip addmisc; bootm $(kernel_addr)"
+CONFIG_UPDATE_NANDBOOT="tftp $(loadaddr) $(tftppath)u-boot-nand.bin; nand erase clean 0 0x08000000; nand write $(loadaddr) 0 $(filesize)"
+CONFIG_UPDATE_UBOOT="tftpboot $(loadaddr) $(tftppath)$(u-boot);erase b0000000 b001ffff;cp.b $(loadaddr) b0000000 $(filesize);reset"
+CONFIG_UPDATE_BOOTLOADER="update_uboot;update gphyfirmware"
+CONFIG_UPDATE_KERNEL="tftpboot $(loadaddr) $(tftppath)$(bootfile);upgrade $(loadaddr) $(filesize)"
+CONFIG_UPDATE_ROOTFS="tftpboot $(loadaddr) $(tftppath)$(rootfs); upgrade $(loadaddr) $(filesize)"
+CONFIG_UPDATE_FIRMWARE="tftpboot $(loadaddr) $(tftppath)$(firmware);upgrade $(loadaddr) $(filesize)"
+CONFIG_UPDATE_GPHYFIRMWARE="tftpboot $(loadaddr) $(tftppath)gphy_firmware.img;nand write.partial $(loadaddr) 24000 10000"
+CONFIG_UPDATE_FULLIMAGE="tftpboot $(loadaddr) $(tftppath)$(fullimage);upgrade $(loadaddr) $(filesize)"
+CONFIG_UPDATE_TOTALIMAGE="tftpboot $(loadaddr) $(tftppath)$(totalimage);upgrade $(loadaddr) $(filesize)"
+CONFIG_UPDATE_BOOTCORE="tftpboot $(loadaddr) $(tftppath)$(bootcore);nand erase 200000 40000;nand write $(loadaddr) 200000 40000"
+CONFIG_RUN_BOOTCORE="nand read 0xA0400000 $(tftppath)$(bootcore);secboot load_os 0x8E000000 0xA0400000 0x200000"
+CONFIG_UBI_INIT="ubi part data;setenv kernelA_vol_id 0;setenv rootfsA_vol_id 1;setenv firmwareA_vol_id 2;setenv kernelB_vol_id 3;setenv rootfsB_vol_id 4;setenv firmwareB_vol_id 5;setenv setbank check_image$(update_chk);run $(setbank)"
+# CONFIG_DUAL_IMAGE is not set
+CONFIG_BOOTCOMMAND="run flash_flash"
+CONFIG_RESET_UBOOT_CONFIG="nand erase $(f_ubootconfig_addr) $(f_ubootconfig_range)"
+CONFIG_RESET_DDR_CONFIG="nand write.partial 80400000 $(f_ddrconfig_addr) $(f_ddrconfig_size)"
+CONFIG_RESET_SYSCONFIG="run ubi_init;ubi remove sysconfig;ubi remove sysconfigA;ubi remove sysconfigB"
+# CONFIG_ADDR_MAP is not set
+# CONFIG_BZIP2 is not set
+# CONFIG_BCH is not set
+# CONFIG_USB_TTY is not set
+CONFIG_GZIP=y
+# CONFIG_LMB is not set
+# CONFIG_MD5 is not set
+# CONFIG_SHA1 is not set
+# CONFIG_SHA256 is not set
+CONFIG_ZLIB=y
+CONFIG_RBTREE=y
+CONFIG_LZO=y
+CONFIG_LZMA=y
+# CONFIG_CMD_AUTH is not set
+# CONFIG_CMD_BDI is not set
+# CONFIG_CMD_BEDBUG is not set
+# CONFIG_CMD_BMP is not set
+# CONFIG_CMD_BOOT_TOS is not set
+# CONFIG_CMD_CACHE is not set
+# CONFIG_CMD_CHKSET is not set
+# CONFIG_CMD_CONSOLE is not set
+# CONFIG_CMD_DATE is not set
+# CONFIG_CMD_SETGETDCR is not set
+# CONFIG_CMD_DIAG is not set
+# CONFIG_CMD_DOC is not set
+# CONFIG_CMD_DTT is not set
+# CONFIG_CMD_DISPLAY is not set
+CONFIG_CMD_ECHO=y
+# CONFIG_CMD_ELF is not set
+# CONFIG_CMD_EXT2 is not set
+# CONFIG_CMD_FAT is not set
+# CONFIG_CMD_FDC is not set
+# CONFIG_OF_LIBFDT is not set
+CONFIG_CMD_LOADB=y
+# CONFIG_CMD_LOADS is not set
+# CONFIG_CMD_FDOS is not set
+# CONFIG_CMD_FPGA is not set
+# CONFIG_CMD_HTTPD is not set
+# CONFIG_CMD_I2C is not set
+# CONFIG_CMD_IDE is not set
+# CONFIG_CMD_IMMAP is not set
+# CONFIG_CMD_ITEST is not set
+# CONFIG_CMD_JFFS2 is not set
+# CONFIG_CMD_LOGBUFFER is not set
+CONFIG_CMD_MEMORY=y
+CONFIG_MII=y
+# CONFIG_CMD_MII is not set
+CONFIG_CMD_MTDPARTS=y
+CONFIG_MTD_DEVICE=y
+CONFIG_MTD_PARTITIONS=y
+# CONFIG_PHY_GIGE is not set
+# CONFIG_CMD_MISC is not set
+# CONFIG_CMD_MMC is not set
+CONFIG_CMD_NAND=y
+CONFIG_CMD_NET=y
+# CONFIG_CMD_PCI is not set
+# CONFIG_CMD_PCMCIA is not set
+# CONFIG_CMD_PING is not set
+# CONFIG_CMD_PORTIO is not set
+# CONFIG_CMD_REGINFO is not set
+CONFIG_CMD_RUN=y
+CONFIG_CMD_SAVEENV=y
+# CONFIG_CMD_SCSI is not set
+# CONFIG_CMD_SOURCE is not set
+# CONFIG_CMD_SPI is not set
+CONFIG_CMD_UBI=y
+CONFIG_UBI_WL_THRESHOLD=4096
+# CONFIG_CMD_UBIFS is not set
+# CONFIG_CMD_UNIVERSE is not set
+CONFIG_CMD_UPGRADE=y
+# CONFIG_CMD_USB is not set
+# CONFIG_CMD_VFD is not set
+# CONFIG_CMD_KGDB is not set
+# CONFIG_CMD_LCD is not set
+# CONFIG_CMD_WDT is not set
+# CONFIG_YAFFS2 is not set
+# CONFIG_SYS_HUSH_PARSER is not set
