@@ -1,0 +1,555 @@
+Archive member included because of file (symbol)
+
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+                              start.o (init_cp0)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+                              start.o (sys_init_icache)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+                              start.o (init_vpe1)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+                              start.o (init_exception)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+                              board.o (get_cpu_id)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+                              board.o (start_interaptiv)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+                              board.o (ibl)
+
+Allocating common symbols
+Common symbol       size              file
+
+___strtok           0x4               string.o
+_ctype              0x1               string.o
+
+Discarded input sections
+
+ .reginfo       0x0000000000000000       0x18 lowlevel_init.o
+ .reginfo       0x0000000000000000       0x18 nand_boot.o
+ .reginfo       0x0000000000000000       0x18 lq_nand.o
+ .reginfo       0x0000000000000000       0x18 board.o
+ .reginfo       0x0000000000000000       0x18 asc.o
+ .reginfo       0x0000000000000000       0x18 clock.o
+ .reginfo       0x0000000000000000       0x18 string.o
+ .reginfo       0x0000000000000000       0x18 time.o
+ .reginfo       0x0000000000000000       0x18 crc32.o
+ .reginfo       0x0000000000000000       0x18 nand_ecc.o
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                . = 0x0
+                0x0000000000000000                . = ALIGN (0x4)
+
+.text           0x00000000a0001000     0x4260
+ *(.text)
+ .text          0x00000000a0001000      0x470 start.o
+                0x00000000a0001000                _start
+                0x00000000a0001000                __reset_vector
+ .text          0x00000000a0001470      0x110 lowlevel_init.o
+                0x00000000a0001470                cgu_init
+                0x00000000a0001560                ddrram_init
+                0x00000000a0001560                lowlevel_init
+ .text          0x00000000a0001580      0x4a0 nand_boot.o
+                0x00000000a0001704                nand_boot
+ .text          0x00000000a0001a20      0x2c0 lq_nand.o
+                0x00000000a0001c00                board_nand_init
+ .text          0x00000000a0001ce0      0x280 board.o
+                0x00000000a0001ce0                cpu_is_cps
+                0x00000000a0001d18                malloc
+                0x00000000a0001d20                config_gpio
+                0x00000000a0001db0                nand_gpio_init
+ .text          0x00000000a0001f60      0x320 asc.o
+                0x00000000a0001f60                serial_setbrg
+                0x00000000a0002070                serial_init
+                0x00000000a0002148                serial_putc
+                0x00000000a00021c8                serial_puts
+                0x00000000a0002214                asc_inb
+                0x00000000a0002234                serial_getc
+                0x00000000a0002254                serial_tstc
+                0x00000000a0002268                serial_start
+                0x00000000a0002270                serial_stop
+ .text          0x00000000a0002280       0xb0 clock.o
+                0x00000000a0002280                get_sys_clk
+                0x00000000a0002288                get_cpu_clk
+                0x00000000a00022d4                get_ddr_clk
+                0x00000000a000231c                get_fpi_clk
+ .text          0x00000000a0002330      0x820 string.o
+                0x00000000a0002330                strcpy
+                0x00000000a0002354                strncpy
+                0x00000000a0002380                strcat
+                0x00000000a00023b8                strncat
+                0x00000000a0002404                strcmp
+                0x00000000a0002430                strncmp
+                0x00000000a000246c                strchr
+                0x00000000a000249c                skip_spaces
+                0x00000000a00024d8                strlen
+                0x00000000a00024f8                strrchr
+                0x00000000a0002564                strim
+                0x00000000a00025f8                strnlen
+                0x00000000a0002620                strdup
+                0x00000000a00026a0                strspn
+                0x00000000a00026d8                strpbrk
+                0x00000000a0002714                strtok
+                0x00000000a00027c8                strsep
+                0x00000000a0002834                strswab
+                0x00000000a0002880                memset
+                0x00000000a00028f8                bcopy
+                0x00000000a0002924                memcpy
+                0x00000000a0002994                memmove
+                0x00000000a00029fc                memcmp
+                0x00000000a0002a2c                memscan
+                0x00000000a0002a58                strstr
+                0x00000000a0002b18                memchr
+ .text          0x00000000a0002b50      0x1c0 time.o
+                0x00000000a0002b50                timer_init
+                0x00000000a0002b80                reset_timer
+                0x00000000a0002bac                get_timer
+                0x00000000a0002c14                set_timer
+                0x00000000a0002c40                __udelay
+                0x00000000a0002c74                mdelay
+                0x00000000a0002ccc                get_ticks
+                0x00000000a0002d04                get_tbclk
+ .text          0x00000000a0002d10      0x190 crc32.o
+                0x00000000a0002d10                crc32_no_comp
+                0x00000000a0002e54                crc32
+                0x00000000a0002e88                crc32_wd
+ .text          0x00000000a0002ea0      0x290 nand_ecc.o
+                0x00000000a0002ea0                nand_calculate_ecc
+                0x00000000a0002fe0                nand_correct_data
+ .text          0x00000000a0003130      0x350 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+                0x00000000a0003130                init_cp0
+                0x00000000a00031d4                init_gic
+                0x00000000a0003248                ipi_reconfig
+                0x00000000a000330c                init_cm
+                0x00000000a0003378                init_cpc
+                0x00000000a0003390                release_mp
+                0x00000000a00033ac                join_domain
+                0x00000000a00033e8                set_gpr_boot_values
+                0x00000000a0003464                init_legacy
+ .text          0x00000000a0003480      0x1c0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+                0x00000000a0003480                sys_init_icache
+                0x00000000a00034d8                sys_init_dcache
+                0x00000000a0003538                init_dcache_lock
+                0x00000000a0003590                disable_L23
+                0x00000000a00035b4                init_L23
+                0x00000000a0003614                change_k0_cca
+ .text          0x00000000a0003640      0x1c0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+                0x00000000a0003640                init_vpe1
+ .text          0x00000000a0003800       0x50 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+                0x00000000a0003800                init_exception
+ .text          0x00000000a0003850      0x670 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+                0x00000000a0003850                get_cpu_id
+                0x00000000a000385c                icache_lines
+                0x00000000a000387c                icache_line_size
+                0x00000000a0003890                dcache_lines
+                0x00000000a00038b0                dcache_line_size
+                0x00000000a00038c4                scache_lines
+                0x00000000a0003944                scache_linesize
+                0x00000000a00039b0                init_icache
+                0x00000000a0003a30                lock_icache
+                0x00000000a0003aac                init_dcache
+                0x00000000a0003b2c                lock_dcache
+                0x00000000a0003ba8                init_scache
+                0x00000000a0003c38                flush_cache
+                0x00000000a0003cd0                flush_dcache_range
+                0x00000000a0003d30                flush_scache_range
+                0x00000000a0003db4                invalidate_dcache_range
+                0x00000000a0003e14                invalidate_scache_range
+                0x00000000a0003e98                write_one_tlb
+ .text          0x00000000a0003ec0      0xe10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+                0x00000000a0003ec0                permission_wr
+                0x00000000a0003ecc                set_permission
+                0x00000000a0004c00                start_interaptiv
+ .text          0x00000000a0004cd0      0x590 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+                0x00000000a0004cd0                r4k_wait_irqoff
+                0x00000000a0004cdc                gic_send_ipi
+                0x00000000a0004cf4                gic_clear_ipi
+                0x00000000a0004d04                print_u8
+                0x00000000a0004d88                print_u32
+                0x00000000a0004df0                set_tc_policy
+                0x00000000a0004e4c                VMB_get_msg_addr
+                0x00000000a0004e7c                vpe_launch
+                0x00000000a0005038                ibl
+
+.text.startup   0x00000000a0005260       0xe0
+ .text.startup  0x00000000a0005260       0xe0 board.o
+                0x00000000a0005260                main
+                0x00000000a0005340                . = ALIGN (0x4)
+
+.rodata         0x00000000a0005340      0x5a0
+ *(.rodata)
+ .rodata        0x00000000a0005340       0x60 nand_boot.o
+ .rodata        0x00000000a00053a0       0x20 clock.o
+ .rodata        0x00000000a00053c0      0x400 crc32.o
+ .rodata        0x00000000a00057c0      0x100 nand_ecc.o
+ .rodata        0x00000000a00058c0       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.reginfo        0x00000000a00058e0       0x18
+ .reginfo       0x00000000a00058e0       0x18 start.o
+
+.rodata.str1.4  0x00000000a00058f8       0x44
+ .rodata.str1.4
+                0x00000000a00058f8       0x44 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.rel.dyn        0x00000000a000593c        0x0
+ .rel.dyn       0x0000000000000000        0x0 start.o
+                0x00000000a000593c                . = ALIGN (0x4)
+
+.data           0x00000000a0005940        0x0
+ *(.data)
+ .data          0x00000000a0005940        0x0 start.o
+ .data          0x00000000a0005940        0x0 lowlevel_init.o
+ .data          0x00000000a0005940        0x0 nand_boot.o
+ .data          0x00000000a0005940        0x0 lq_nand.o
+ .data          0x00000000a0005940        0x0 board.o
+ .data          0x00000000a0005940        0x0 asc.o
+ .data          0x00000000a0005940        0x0 clock.o
+ .data          0x00000000a0005940        0x0 string.o
+ .data          0x00000000a0005940        0x0 time.o
+ .data          0x00000000a0005940        0x0 crc32.o
+ .data          0x00000000a0005940        0x0 nand_ecc.o
+ .data          0x00000000a0005940        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .data          0x00000000a0005940        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .data          0x00000000a0005940        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .data          0x00000000a0005940        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .data          0x00000000a0005940        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .data          0x00000000a0005940        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .data          0x00000000a0005940        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.got.plt        0x00000000a000593c        0x0
+ .got.plt       0x0000000000000000        0x0 start.o
+                0x00000000a000593c                . = ALIGN (0x4)
+
+.sdata
+ *(.sdata)
+ *(.sdata)
+                0x00000000a0005940                _gp = ALIGN (0x10)
+                0x00000000a0005940                . = ALIGN (0x10)
+                0x00000000a0005940                __got_start = .
+
+.got            0x00000000a0005940      0x118
+ *(.got)
+ .got           0x00000000a0005940      0x118 start.o
+                0x00000000a0005940                _GLOBAL_OFFSET_TABLE_
+                0x00000000a0005a58                __got_end = .
+                0x00000000a0005a58                . = .
+                0x0000000000000118                got_size = (__got_end - __got_start)
+                0x00000000a0005a58                uboot_end_data = .
+                0x0000000000000046                num_got_entries = ((__got_end - __got_start) >> 0x2)
+                0x00000000a0005a58                . = ALIGN (0x4)
+
+.sbss
+ *(.sbss)
+
+.bss            0x00000000a0005a60       0x25
+ *(.bss)
+ .bss           0x00000000a0005a60        0x0 start.o
+ .bss           0x00000000a0005a60        0x0 lowlevel_init.o
+ .bss           0x00000000a0005a60        0x0 nand_boot.o
+ .bss           0x00000000a0005a60       0x10 lq_nand.o
+ .bss           0x00000000a0005a70        0x0 board.o
+ .bss           0x00000000a0005a70        0x0 asc.o
+ .bss           0x00000000a0005a70        0x0 clock.o
+ .bss           0x00000000a0005a70        0x0 string.o
+ .bss           0x00000000a0005a70       0x10 time.o
+ .bss           0x00000000a0005a80        0x0 crc32.o
+ .bss           0x00000000a0005a80        0x0 nand_ecc.o
+ .bss           0x00000000a0005a80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .bss           0x00000000a0005a80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .bss           0x00000000a0005a80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .bss           0x00000000a0005a80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .bss           0x00000000a0005a80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .bss           0x00000000a0005a80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .bss           0x00000000a0005a80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+ COMMON         0x00000000a0005a80        0x5 string.o
+                0x00000000a0005a80                ___strtok
+                0x00000000a0005a84                _ctype
+                0x00000000a0005a85                uboot_end = .
+Address of section .text set to 0xa0001000
+LOAD start.o
+LOAD lowlevel_init.o
+LOAD nand_boot.o
+LOAD lq_nand.o
+LOAD board.o
+LOAD asc.o
+LOAD clock.o
+LOAD string.o
+LOAD time.o
+LOAD crc32.o
+LOAD nand_ecc.o
+LOAD /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a
+LOAD /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/staging_dir/toolchain-mips_mips32_gcc-4.8-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.8.3/libgcc.a
+OUTPUT(/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/nand_spl/board/lantiqu-boot-spl elf32-tradbigmips)
+
+.pdr            0x0000000000000000      0xea0
+ .pdr           0x0000000000000000       0x20 start.o
+ .pdr           0x0000000000000020       0x60 lowlevel_init.o
+ .pdr           0x0000000000000080       0x40 nand_boot.o
+ .pdr           0x00000000000000c0       0xe0 lq_nand.o
+ .pdr           0x00000000000001a0       0xa0 board.o
+ .pdr           0x0000000000000240      0x120 asc.o
+ .pdr           0x0000000000000360       0x80 clock.o
+ .pdr           0x00000000000003e0      0x340 string.o
+ .pdr           0x0000000000000720      0x100 time.o
+ .pdr           0x0000000000000820       0x60 crc32.o
+ .pdr           0x0000000000000880       0x40 nand_ecc.o
+ .pdr           0x00000000000008c0      0x120 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .pdr           0x00000000000009e0       0xc0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .pdr           0x0000000000000aa0       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .pdr           0x0000000000000ac0       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .pdr           0x0000000000000ae0      0x240 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .pdr           0x0000000000000d20       0x60 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .pdr           0x0000000000000d80      0x120 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.mdebug.abi32   0x0000000000000000        0x0
+ .mdebug.abi32  0x0000000000000000        0x0 nand_boot.o
+ .mdebug.abi32  0x0000000000000000        0x0 lq_nand.o
+ .mdebug.abi32  0x0000000000000000        0x0 board.o
+ .mdebug.abi32  0x0000000000000000        0x0 asc.o
+ .mdebug.abi32  0x0000000000000000        0x0 clock.o
+ .mdebug.abi32  0x0000000000000000        0x0 string.o
+ .mdebug.abi32  0x0000000000000000        0x0 time.o
+ .mdebug.abi32  0x0000000000000000        0x0 crc32.o
+ .mdebug.abi32  0x0000000000000000        0x0 nand_ecc.o
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.comment        0x0000000000000000       0x36
+ .comment       0x0000000000000000       0x36 nand_boot.o
+                                         0x37 (size before relaxing)
+ .comment       0x0000000000000000       0x37 lq_nand.o
+ .comment       0x0000000000000000       0x37 board.o
+ .comment       0x0000000000000000       0x37 asc.o
+ .comment       0x0000000000000000       0x37 clock.o
+ .comment       0x0000000000000000       0x37 string.o
+ .comment       0x0000000000000000       0x37 time.o
+ .comment       0x0000000000000000       0x37 crc32.o
+ .comment       0x0000000000000000       0x37 nand_ecc.o
+ .comment       0x0000000000000000       0x37 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .comment       0x0000000000000000       0x37 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .comment       0x0000000000000000       0x37 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 nand_boot.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 lq_nand.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 board.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 asc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 clock.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 string.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 time.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 crc32.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 nand_ecc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.gnu.attributes
+                0x0000000000000000       0x10
+ .gnu.attributes
+                0x0000000000000000       0x10 nand_boot.o
+ .gnu.attributes
+                0x0000000000000010       0x10 lq_nand.o
+ .gnu.attributes
+                0x0000000000000020       0x10 board.o
+ .gnu.attributes
+                0x0000000000000030       0x10 asc.o
+ .gnu.attributes
+                0x0000000000000040       0x10 clock.o
+ .gnu.attributes
+                0x0000000000000050       0x10 string.o
+ .gnu.attributes
+                0x0000000000000060       0x10 time.o
+ .gnu.attributes
+                0x0000000000000070       0x10 crc32.o
+ .gnu.attributes
+                0x0000000000000080       0x10 nand_ecc.o
+ .gnu.attributes
+                0x0000000000000090       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .gnu.attributes
+                0x00000000000000a0       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .gnu.attributes
+                0x00000000000000b0       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.debug_line     0x0000000000000000     0x2c16
+ .debug_line    0x0000000000000000       0xd2 start.o
+ .debug_line    0x00000000000000d2       0x77 lowlevel_init.o
+ .debug_line    0x0000000000000149      0x594 nand_boot.o
+ .debug_line    0x00000000000006dd      0x429 lq_nand.o
+ .debug_line    0x0000000000000b06      0x214 board.o
+ .debug_line    0x0000000000000d1a      0x210 asc.o
+ .debug_line    0x0000000000000f2a      0x267 clock.o
+ .debug_line    0x0000000000001191      0x47d string.o
+ .debug_line    0x000000000000160e      0x193 time.o
+ .debug_line    0x00000000000017a1      0x4f3 crc32.o
+ .debug_line    0x0000000000001c94      0x406 nand_ecc.o
+ .debug_line    0x000000000000209a      0x112 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .debug_line    0x00000000000021ac       0xaa /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .debug_line    0x0000000000002256       0xa8 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .debug_line    0x00000000000022fe       0x4f /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .debug_line    0x000000000000234d      0x28b /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .debug_line    0x00000000000025d8      0x2b8 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .debug_line    0x0000000000002890      0x386 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.debug_info     0x0000000000000000     0x8444
+ .debug_info    0x0000000000000000      0x13b start.o
+ .debug_info    0x000000000000013b      0x143 lowlevel_init.o
+ .debug_info    0x000000000000027e     0x1ef0 nand_boot.o
+ .debug_info    0x000000000000216e     0x1961 lq_nand.o
+ .debug_info    0x0000000000003acf      0x39e board.o
+ .debug_info    0x0000000000003e6d      0x6ab asc.o
+ .debug_info    0x0000000000004518      0x148 clock.o
+ .debug_info    0x0000000000004660      0xa2e string.o
+ .debug_info    0x000000000000508e      0x281 time.o
+ .debug_info    0x000000000000530f      0x2c0 crc32.o
+ .debug_info    0x00000000000055cf      0x9a9 nand_ecc.o
+ .debug_info    0x0000000000005f78      0x142 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .debug_info    0x00000000000060ba      0x13f /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .debug_info    0x00000000000061f9      0x13e /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .debug_info    0x0000000000006337      0x143 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .debug_info    0x000000000000647a      0x880 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .debug_info    0x0000000000006cfa      0xf6b /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .debug_info    0x0000000000007c65      0x7df /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.debug_abbrev   0x0000000000000000     0x1628
+ .debug_abbrev  0x0000000000000000       0x14 start.o
+ .debug_abbrev  0x0000000000000014       0x14 lowlevel_init.o
+ .debug_abbrev  0x0000000000000028      0x344 nand_boot.o
+ .debug_abbrev  0x000000000000036c      0x36c lq_nand.o
+ .debug_abbrev  0x00000000000006d8      0x13a board.o
+ .debug_abbrev  0x0000000000000812      0x213 asc.o
+ .debug_abbrev  0x0000000000000a25       0xbf clock.o
+ .debug_abbrev  0x0000000000000ae4      0x194 string.o
+ .debug_abbrev  0x0000000000000c78      0x133 time.o
+ .debug_abbrev  0x0000000000000dab      0x131 crc32.o
+ .debug_abbrev  0x0000000000000edc      0x1d3 nand_ecc.o
+ .debug_abbrev  0x00000000000010af       0x14 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .debug_abbrev  0x00000000000010c3       0x14 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .debug_abbrev  0x00000000000010d7       0x14 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .debug_abbrev  0x00000000000010eb       0x14 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .debug_abbrev  0x00000000000010ff      0x1ee /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .debug_abbrev  0x00000000000012ed       0xfa /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .debug_abbrev  0x00000000000013e7      0x241 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.debug_aranges  0x0000000000000000      0x248
+ .debug_aranges
+                0x0000000000000000       0x20 start.o
+ .debug_aranges
+                0x0000000000000020       0x20 lowlevel_init.o
+ .debug_aranges
+                0x0000000000000040       0x20 nand_boot.o
+ .debug_aranges
+                0x0000000000000060       0x20 lq_nand.o
+ .debug_aranges
+                0x0000000000000080       0x28 board.o
+ .debug_aranges
+                0x00000000000000a8       0x20 asc.o
+ .debug_aranges
+                0x00000000000000c8       0x20 clock.o
+ .debug_aranges
+                0x00000000000000e8       0x20 string.o
+ .debug_aranges
+                0x0000000000000108       0x20 time.o
+ .debug_aranges
+                0x0000000000000128       0x20 crc32.o
+ .debug_aranges
+                0x0000000000000148       0x20 nand_ecc.o
+ .debug_aranges
+                0x0000000000000168       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(lowlevel_init.o)
+ .debug_aranges
+                0x0000000000000188       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_cache.o)
+ .debug_aranges
+                0x00000000000001a8       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_vpe1.o)
+ .debug_aranges
+                0x00000000000001c8       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(init_exception.o)
+ .debug_aranges
+                0x00000000000001e8       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .debug_aranges
+                0x0000000000000208       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .debug_aranges
+                0x0000000000000228       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.debug_loc      0x0000000000000000     0x3091
+ .debug_loc     0x0000000000000000      0x58b nand_boot.o
+ .debug_loc     0x000000000000058b      0x283 lq_nand.o
+ .debug_loc     0x000000000000080e      0x24b board.o
+ .debug_loc     0x0000000000000a59      0x268 asc.o
+ .debug_loc     0x0000000000000cc1       0xaf clock.o
+ .debug_loc     0x0000000000000d70      0xf74 string.o
+ .debug_loc     0x0000000000001ce4       0x92 time.o
+ .debug_loc     0x0000000000001d76      0x2b8 crc32.o
+ .debug_loc     0x000000000000202e      0x62d nand_ecc.o
+ .debug_loc     0x000000000000265b      0x612 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .debug_loc     0x0000000000002c6d       0x6f /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .debug_loc     0x0000000000002cdc      0x3b5 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.debug_ranges   0x0000000000000000      0x188
+ .debug_ranges  0x0000000000000000       0x78 nand_boot.o
+ .debug_ranges  0x0000000000000078       0x18 lq_nand.o
+ .debug_ranges  0x0000000000000090       0x30 board.o
+ .debug_ranges  0x00000000000000c0       0x28 asc.o
+ .debug_ranges  0x00000000000000e8       0xa0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+
+.debug_str      0x0000000000000000     0x1a0c
+ .debug_str     0x0000000000000000      0xe06 nand_boot.o
+                                        0xf77 (size before relaxing)
+ .debug_str     0x0000000000000e06       0xcc lq_nand.o
+                                        0xe27 (size before relaxing)
+ .debug_str     0x0000000000000ed2       0x8e board.o
+                                        0x2d6 (size before relaxing)
+ .debug_str     0x0000000000000f60      0x322 asc.o
+                                        0x580 (size before relaxing)
+ .debug_str     0x0000000000001282       0x4a clock.o
+                                        0x299 (size before relaxing)
+ .debug_str     0x00000000000012cc       0xf3 string.o
+                                        0x36a (size before relaxing)
+ .debug_str     0x00000000000013bf       0x62 time.o
+                                        0x2cd (size before relaxing)
+ .debug_str     0x0000000000001421       0x5a crc32.o
+                                        0x2d0 (size before relaxing)
+ .debug_str     0x000000000000147b       0x8c nand_ecc.o
+                                        0x678 (size before relaxing)
+ .debug_str     0x0000000000001507      0x31c /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+                                        0x3db (size before relaxing)
+ .debug_str     0x0000000000001823       0x3b /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+                                        0x282 (size before relaxing)
+ .debug_str     0x000000000000185e      0x1ae /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)
+                                        0x44d (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x978
+ .debug_frame   0x0000000000000000       0x68 nand_boot.o
+ .debug_frame   0x0000000000000068       0x90 lq_nand.o
+ .debug_frame   0x00000000000000f8       0x84 board.o
+ .debug_frame   0x000000000000017c       0xdc asc.o
+ .debug_frame   0x0000000000000258       0x50 clock.o
+ .debug_frame   0x00000000000002a8      0x22c string.o
+ .debug_frame   0x00000000000004d4       0xac time.o
+ .debug_frame   0x0000000000000580       0x4c crc32.o
+ .debug_frame   0x00000000000005cc       0x30 nand_ecc.o
+ .debug_frame   0x00000000000005fc      0x20c /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(cache.o)
+ .debug_frame   0x0000000000000808       0x70 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(interaptiv.o)
+ .debug_frame   0x0000000000000878      0x100 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/libmips.a(ibl.o)

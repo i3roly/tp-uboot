@@ -1,0 +1,271 @@
+Archive member included because of file (symbol)
+
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+                              /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o (malloc)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+                              /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o) (lzma_inflate)
+/Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+                              /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o) (LzmaDecodeProperties)
+
+Allocating common symbols
+Common symbol       size              file
+
+___strtok           0x4               /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+_ctype              0x1               /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+
+Discarded input sections
+
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .reginfo       0x0000000000000000       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                . = 0x0
+                0x0000000000000000                . = ALIGN (0x4)
+
+.text           0x0000000080200000     0x1860
+ *(.text)
+ .text          0x0000000080200000       0x30 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+                0x0000000080200000                _start
+ .text          0x0000000080200030      0x820 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+                0x0000000080200030                strcpy
+                0x0000000080200054                strncpy
+                0x0000000080200080                strcat
+                0x00000000802000b8                strncat
+                0x0000000080200104                strcmp
+                0x0000000080200130                strncmp
+                0x000000008020016c                strchr
+                0x000000008020019c                skip_spaces
+                0x00000000802001d8                strlen
+                0x00000000802001f8                strrchr
+                0x0000000080200264                strim
+                0x00000000802002f8                strnlen
+                0x0000000080200320                strdup
+                0x00000000802003a0                strspn
+                0x00000000802003d8                strpbrk
+                0x0000000080200414                strtok
+                0x00000000802004c8                strsep
+                0x0000000080200534                strswab
+                0x0000000080200580                memset
+                0x00000000802005f8                bcopy
+                0x0000000080200624                memcpy
+                0x0000000080200694                memmove
+                0x00000000802006fc                memcmp
+                0x000000008020072c                memscan
+                0x0000000080200758                strstr
+                0x0000000080200818                memchr
+ .text          0x0000000080200850      0x1d0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+                0x0000000080200850                mem_malloc_init
+                0x0000000080200888                malloc
+                0x00000000802008c4                realloc
+                0x00000000802008cc                free
+                0x00000000802008d4                sbrk
+                0x0000000080200920                hang
+                0x0000000080200928                uncompress
+ .text          0x0000000080200a20      0x260 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+                0x0000000080200a20                lzma_inflate
+ .text          0x0000000080200c80      0xa50 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+                0x0000000080200c80                LzmaDecodeProperties
+                0x0000000080200cf4                LzmaDecode
+ .text          0x00000000802016d0      0x190 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+                0x00000000802016d0                crc32_no_comp
+                0x0000000080201814                crc32
+                0x0000000080201848                crc32_wd
+                0x0000000080201860                . = ALIGN (0x4)
+
+.rodata         0x0000000080201860      0x400
+ *(.rodata)
+ .rodata        0x0000000080201860      0x400 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.reginfo        0x0000000080201c60       0x18
+ .reginfo       0x0000000080201c60       0x18 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+                0x0000000080201c78                . = ALIGN (0x4)
+
+.data           0x0000000080201c80        0x0
+ *(.data)
+ .data          0x0000000080201c80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+ .data          0x0000000080201c80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .data          0x0000000080201c80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .data          0x0000000080201c80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .data          0x0000000080201c80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .data          0x0000000080201c80        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.got.plt        0x0000000080201c78        0x0
+ .got.plt       0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+                0x0000000080201c78                . = ALIGN (0x4)
+
+.sdata
+ *(.sdata)
+ *(.sdata)
+                0x0000000080201c80                _gp = ALIGN (0x10)
+                0x0000000080201c80                . = ALIGN (0x10)
+                0x0000000080201c80                __got_start = .
+
+.got            0x0000000080201c80       0x68
+ *(.got)
+ .got           0x0000000080201c80       0x68 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+                0x0000000080201c80                _GLOBAL_OFFSET_TABLE_
+                0x0000000080201ce8                __got_end = .
+                0x0000000080201ce8                . = .
+                0x0000000080201ce8                __u_boot_cmd_start = .
+
+.u_boot_cmd
+ *(.u_boot_cmd)
+                0x0000000080201ce8                __u_boot_cmd_end = .
+                0x0000000080201ce8                . = ALIGN (0x4)
+                0x0000000080201ce8                uboot_end_data = .
+                0x0000000000000068                got_size = (__got_end - __got_start)
+                0x000000000000001a                num_got_entries = ((__got_end - __got_start) >> 0x2)
+                0x0000000080201ce8                . = ALIGN (0x4)
+
+.sbss
+ *(.sbss)
+
+.bss            0x0000000080201cf0       0x20
+ *(.bss)
+ .bss           0x0000000080201cf0        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+ .bss           0x0000000080201cf0        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .bss           0x0000000080201cf0       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .bss           0x0000000080201d00       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .bss           0x0000000080201d10        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .bss           0x0000000080201d10        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+                0x0000000080201d10                uboot_end = .
+Address of section .text set to 0x80200000
+LOAD /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+LOAD /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+LOAD /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a
+LOAD /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+OUTPUT(bootstrap elf32-tradbigmips)
+
+.scommon        0x0000000080201d10        0x5
+ .scommon       0x0000000080201d10        0x5 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+                0x0000000080201d10                ___strtok
+                0x0000000080201d14                _ctype
+
+.pdr            0x0000000000000000      0x4e0
+ .pdr           0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+ .pdr           0x0000000000000000      0x340 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .pdr           0x0000000000000340       0xe0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .pdr           0x0000000000000420       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .pdr           0x0000000000000440       0x40 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .pdr           0x0000000000000480       0x60 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.mdebug.abi32   0x0000000000000000        0x0
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.comment        0x0000000000000000       0x36
+ .comment       0x0000000000000000       0x36 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+                                         0x37 (size before relaxing)
+ .comment       0x0000000000000000       0x37 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .comment       0x0000000000000000       0x37 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .comment       0x0000000000000000       0x37 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .comment       0x0000000000000000       0x37 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.gnu.attributes
+                0x0000000000000000       0x10
+ .gnu.attributes
+                0x0000000000000000       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .gnu.attributes
+                0x0000000000000010       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .gnu.attributes
+                0x0000000000000020       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .gnu.attributes
+                0x0000000000000030       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .gnu.attributes
+                0x0000000000000040       0x10 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.scommon        0x0000000000000000        0x0
+ .scommon       0x0000000000000000        0x0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+
+.debug_line     0x0000000000000000     0x145f
+ .debug_line    0x0000000000000000      0x151 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+ .debug_line    0x0000000000000151      0x47d /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .debug_line    0x00000000000005ce      0x3ba /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .debug_line    0x0000000000000988      0x311 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .debug_line    0x0000000000000c99      0x2d3 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .debug_line    0x0000000000000f6c      0x4f3 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.debug_info     0x0000000000000000     0x1c48
+ .debug_info    0x0000000000000000      0x236 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+ .debug_info    0x0000000000000236      0xa2e /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .debug_info    0x0000000000000c64      0x416 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .debug_info    0x000000000000107a      0x431 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .debug_info    0x00000000000014ab      0x4dd /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .debug_info    0x0000000000001988      0x2c0 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.debug_abbrev   0x0000000000000000      0x77c
+ .debug_abbrev  0x0000000000000000       0x14 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+ .debug_abbrev  0x0000000000000014      0x194 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .debug_abbrev  0x00000000000001a8      0x1a4 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .debug_abbrev  0x000000000000034c      0x1c4 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .debug_abbrev  0x0000000000000510      0x13b /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .debug_abbrev  0x000000000000064b      0x131 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.debug_aranges  0x0000000000000000       0xc0
+ .debug_aranges
+                0x0000000000000000       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/arch/mips/cpu/grx500/start_uncomp.o
+ .debug_aranges
+                0x0000000000000020       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .debug_aranges
+                0x0000000000000040       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.debug_loc      0x0000000000000000     0x25dc
+ .debug_loc     0x0000000000000000      0xf74 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .debug_loc     0x0000000000000f74      0x17c /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .debug_loc     0x00000000000010f0      0x376 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .debug_loc     0x0000000000001466      0xebe /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .debug_loc     0x0000000000002324      0x2b8 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.debug_str      0x0000000000000000      0x811
+ .debug_str     0x0000000000000000      0x30c /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+                                        0x358 (size before relaxing)
+ .debug_str     0x000000000000030c      0x259 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+                                        0x3b8 (size before relaxing)
+ .debug_str     0x0000000000000565      0x117 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+                                        0x3ba (size before relaxing)
+ .debug_str     0x000000000000067c      0x140 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+                                        0x3ad (size before relaxing)
+ .debug_str     0x00000000000007bc       0x55 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+                                        0x2be (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x3a8
+ .debug_frame   0x0000000000000000      0x22c /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/string.o
+ .debug_frame   0x000000000000022c       0x94 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(nand_spl_board.o)
+ .debug_frame   0x00000000000002c0       0x48 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .debug_frame   0x0000000000000308       0x54 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)
+ .debug_frame   0x000000000000035c       0x4c /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib/crc32.o
+
+.debug_ranges   0x0000000000000000      0x228
+ .debug_ranges  0x0000000000000000       0x98 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaWrapper.o)
+ .debug_ranges  0x0000000000000098      0x190 /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/UGW-7.5.1.50/build_dir/xRX500_BootCore/build_dir/target-mips-openwrt-linux-uclibc_grx_350_550_wave600_bootcore_sample/linux-lantiq_xrx500_4kec/u-boot-2010.06/lib_bootstrap/libbootstrap.a(LzmaDecode.o)

@@ -1,0 +1,4 @@
+config LANTIQ_UBOOT_grx500
+bool
+default y
+source scripts_platform/Kconfig

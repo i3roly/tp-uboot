@@ -1,0 +1,8 @@
+Package: open_uboot
+Version: 2010.06-1
+Depends: libc, libssp
+Source: /Volumes/xtoolshit/misc/dd-wrt/src/router/tools/ax50v1_GPL_3/intel_GRX350/sdk/7.5.1.50/ugw/feeds_opensrc/bootloaders/open_uboot
+Section: boot
+Architecture: lantiq
+Installed-Size: 113
+Description:  U-Boot for Lantiq SoC based platforms
